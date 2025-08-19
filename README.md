@@ -107,9 +107,3 @@ These artifacts are resume-ready and map directly to the listed skills.
 - To reset data, stop the server and delete `app.db` in the project root.
 - If running from another shell, adapt the activation command (e.g., `. .venv/bin/activate` on Linux/macOS).
 
-### Resume bullets (example)
-- Led end-to-end SDLC for an Issue Tracker API: authored SRS, architecture design, and RTM; implemented FastAPI + SQLite backend with SQLAlchemy ORM.
-- Built comprehensive test suite (unit + integration) using Pytest; integrated CI for automated test execution and reporting.
-- Drove STLC activities: crafted Test Plan and Test Cases, executed tests, logged/triaged defects, produced test and status reports weekly.
-- Performed peer-style code reviews following a checklist; documented review findings and improvements.
-
